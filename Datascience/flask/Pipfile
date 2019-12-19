@@ -16,6 +16,9 @@ py-openaq = "*"
 pandas = "*"
 gunicorn = "*"
 psycopg2 = "*"
+joblib = "*"
+scikit-learn = "*"
+category-encoders = "==2.0.0"
 
 [requires]
 python_version = "3.7"
