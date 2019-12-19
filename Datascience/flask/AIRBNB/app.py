@@ -2,7 +2,7 @@
 
 from decouple import config
 from flask import Flask, render_template
-from TEST.models import DB, Record
+from AIRBNB.models import DB, Record
 # import requests
 import openaq
 
